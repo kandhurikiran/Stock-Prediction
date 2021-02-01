@@ -33,9 +33,9 @@ import pickle
 
 #setting input parameters
 
-stockName = input('get names from stocks from here https://www.nasdaq.com/market-activity/stocks/screener:')
-startDate = input('Please enter in yyyymmdd format: ')
-endDate = input('Please enter in yyyymmdd format: ')
+#stockName = input('get names from stocks from here https://www.nasdaq.com/market-activity/stocks/screener:')
+#startDate = input('Please enter in yyyymmdd format: ')
+#endDate = input('Please enter in yyyymmdd format: ')
 
 
 # def stockData(stockName, startDate, endDate):
